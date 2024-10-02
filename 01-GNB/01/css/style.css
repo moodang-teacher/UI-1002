@@ -53,6 +53,7 @@ header nav {
   top: 43px;
   left: 0;
   width: 100%;
+  background: #5f5;
 
   /* jQuery로 동작을 만들기 위한 준비 */
   display: none;
